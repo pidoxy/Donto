@@ -1,0 +1,10 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const PROFILE = '/profile';
+export const REQUEST_FUND = '/request-fund';
+export const ARTICLES = '/articles';
+export const UPLOAD_ARTICLES = '/upload-articles';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
+export const DONATE = '/donate';
